@@ -14,3 +14,7 @@ code --install-extension SAPSE.sap-ux-service-modeler-extension
 code --install-extension SAPSE.vscode-cds
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension WallabyJs.quokka-vscode
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension janisdd.vscode-edit-csv
+code --install-extension mechatroner.rainbow-csv
+code --install-extension ozgurkadir.cds-csv-generator
